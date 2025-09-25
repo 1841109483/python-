@@ -69,9 +69,12 @@
 - **权限提升**
 - **数据泄露**
 
+<img width="2912" height="1877" alt="image" src="https://github.com/user-attachments/assets/d8b76457-a224-4930-89bb-6e10cafc25cb" />
 
 
+<img width="2589" height="1735" alt="image" src="https://github.com/user-attachments/assets/e8907d6e-54f3-46ee-b087-2558bdf7d95b" />
 
+<img width="2591" height="1735" alt="image" src="https://github.com/user-attachments/assets/2fcb40a6-f87f-4627-8fc2-049596a6b10d" />
 
 
 
